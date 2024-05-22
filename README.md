@@ -1,3 +1,3 @@
-Had issues with pushing to git, I will play around with it a bit more but I am linking the Test part of my project as I had to make a separate repo for it temporarily.
+I had issues pushing my projects into one git repo but I fixed it so here is the updated repo
 
-https://github.com/n-ivanenko/EmailValidatorTests
+https://github.com/n-ivanenko/EmailValidator
